@@ -1,0 +1,2 @@
+1. press "a" the human will go left
+2. press "d" the human will go right
